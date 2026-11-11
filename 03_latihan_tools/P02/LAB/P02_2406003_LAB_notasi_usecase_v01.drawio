@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="Jz0mhwhBgDoN99mxZniG" name="Page-1">
+        <mxGraphModel dx="773" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-2" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=250;height=50;" value="Sistem Informasi Peminjaman dan Pengembalian Peralatan Laboratorium&lt;br/&gt;Kampus" vertex="1">
+                    <mxGeometry height="510" width="450" x="160" y="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-9" parent="fCCL73Nwtvs7-GEmYci8-2" style="ellipse;" value="Lihat ketersediaan peralatan&#xa;" vertex="1">
+                    <mxGeometry height="95" width="170" x="40" y="202.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-13" parent="fCCL73Nwtvs7-GEmYci8-2" style="ellipse;" value="Kelola data peralatan&#xa;" vertex="1">
+                    <mxGeometry height="95" width="170" x="250" y="207.5" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-16" edge="1" parent="1" source="fCCL73Nwtvs7-GEmYci8-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="fCCL73Nwtvs7-GEmYci8-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+                    <mxGeometry height="60" width="30" x="100" y="320" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-17" edge="1" parent="1" source="fCCL73Nwtvs7-GEmYci8-6" style="edgeStyle=none;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" target="fCCL73Nwtvs7-GEmYci8-13">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="fCCL73Nwtvs7-GEmYci8-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Petugas Laporan&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="640" y="325" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
